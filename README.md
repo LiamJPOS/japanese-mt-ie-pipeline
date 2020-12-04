@@ -1,6 +1,6 @@
 # Multilingual Information Extraction With Machine Translation: A Pipeline Experiment Using Japanese Wikipedia
 
-This file gives a simple breakdown of my research into how well machine translation works as part of an information extraction pipeline. This research was conducted for a dissertation presented in partial fulfillment for an MA in Computational Linguistics. The full paper has also been included. 
+This file gives a simple breakdown of my research into how well machine translation works as part of an information extraction pipeline. This research was conducted for a dissertation presented in partial fulfillment for an MA in Computational Linguistics. The full paper has also been included in the repository. 
 
 Information Extraction (IE) is the task of extracting machine-readable data from unstructured
 text. More specifically it's focussed on mapping relations between entities or events and timelines. Extracted information is often stored in a structured way such as in a database. 
