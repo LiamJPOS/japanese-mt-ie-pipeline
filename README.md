@@ -1,5 +1,4 @@
-# japanese-mt-ie-pipeline
-Contains project files for experiment using Japanese machine translated text for an IE pipeline
+# Multilingual Information Extraction With Machine Translation: A Pipeline Experiment Using Japanese Wikipedia
 
 This file gives a simple breakdown of my research into how well machine translation works as part of an information extraction pipeline. This research was conducted for a dissertation presented in partial fulfillment for an MA in Computational Linguistics. The full paper has also been included. 
 
