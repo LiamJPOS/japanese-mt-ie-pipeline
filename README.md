@@ -15,4 +15,8 @@ After outlining the practical steps, and demonstrating some of the code that was
 
 The first step in any NLP project is the collection of data to create a corpus. For this project, Wikipedia articles were chosen. Wikipedia articles are useful for IE as they are written in a consistently structured way that are useful for traning machine learning models. They have resources for many languages, and building a corpus using them is easy using wikidumps. 
 
-A Wikidump provides a collection of Wikipedia articles listed on Wikipedia in a specific language and for a specified date. This can be performed with open-source Python modules and usually extracts articles, including image placement, infoboxes, reference links, and text body in an XML file.
+A wikidump provides a collection of Wikipedia articles listed on Wikipedia in a specific language and for a specified date. This can be performed with open-source Python modules and usually extracts articles, including image placement, infoboxes, reference links, and text body in an XML file. A wikidump of Japanese articles can be found at http://shinra-project.info/?lang=en categorised by Sekine's Extended Named Entity Heirarchy (see https://www.semanticscholar.org/paper/Extended-Named-Entity-Hierarchy-Sekine-Sudo/f664c4a6aee50411f1db79999fd5e7c88a35b926) and is used in this project. 
+
+## Step 2: Data Cleaning
+
+
